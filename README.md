@@ -3,7 +3,7 @@
 ### About me
 
 ### Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/mahlunas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahlunas/)
 [![Instagram](https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahlunas/)
 
 ### GitHub Stats 👾
