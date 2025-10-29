@@ -10,11 +10,11 @@ Outside of work, I enjoy reading, cooking, and playing games — hobbies that he
 ### Technologies I Work With 💻
 In my daily work, I use a mix of technologies to build efficient and user-friendly applications, including:
 
-Backend: Java (Spring Boot)
-Frontend: PrimeFaces, React, TypeScript
-Database: PostgreSQL, DBeaver
-Tools & DevOps: Docker, Git, VS Code, Postman
-Others: REST APIs and Axios
+- Backend: Java (Spring Boot)
+- Frontend: PrimeFaces, React, TypeScript
+- Database: PostgreSQL, DBeaver
+- Tools & DevOps: Docker, Git, VS Code, Postman
+- Others: REST APIs and Axios
 
 I’m passionate about learning new technologies, improving my code every day, and building solutions that make a real impact. 🚀
 
