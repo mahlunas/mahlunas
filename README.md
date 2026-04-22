@@ -26,4 +26,9 @@ I’m passionate about learning new technologies, improving my code every day, a
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahlunas&theme=midnight-purple&bg_color=000&border_color=4B0082&show_icons=true&icon_color=4B0082&text_color=FFF&hide_title=true&hide=stars)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
