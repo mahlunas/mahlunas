@@ -28,7 +28,10 @@ I’m passionate about learning new technologies, improving my code every day, a
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL        2 hrs 16 mins         █████████████████████████   99.51 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Java       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
