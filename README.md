@@ -28,11 +28,11 @@ I’m passionate about learning new technologies, improving my code every day, a
 <!--START_SECTION:waka-->
 
 ```txt
-SQL        2 hrs 16 mins         ███████████▓░░░░░░░░░░░░░   46.15 %
-Python     1 hr 35 mins          ████████░░░░░░░░░░░░░░░░░   32.35 %
-Other      55 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
-Java       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-YAML       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+SQL          2 hrs 16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+Python       1 hr 35 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+Java         1 hr 22 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Other        1 hr 10 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+HTML         54 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
 ```
 
 <!--END_SECTION:waka-->
