@@ -28,11 +28,11 @@ I’m passionate about learning new technologies, improving my code every day, a
 <!--START_SECTION:waka-->
 
 ```txt
-HTML              10 hrs 9 mins         ████████████▒░░░░░░░░░░░░   48.72 %
-Java              4 hrs 25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-TypeScript        1 hr 52 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-Text              57 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Markdown          42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+HTML              9 hrs 37 mins         ████████████░░░░░░░░░░░░░   48.14 %
+Java              4 hrs 25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
+TypeScript        1 hr 52 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+YAML              40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Markdown          35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
