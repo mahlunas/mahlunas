@@ -118,8 +118,8 @@ Currently, I work with web development, APIs, databases and frontend interfaces,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D0A4E?style=for-the-badge\&logo=linkedin\&logoColor=A855F7)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-2D0A4E?style=for-the-badge\&logo=gmail\&logoColor=A855F7)](mailto:marcelle@exiti.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D0A4E?style=for-the-badge\&logo=linkedin\&logoColor=A855F7)](https://linkedin.com/in/marcelleluna)
+[![Email](https://img.shields.io/badge/Email-2D0A4E?style=for-the-badge\&logo=gmail\&logoColor=A855F7)](mailto:lunasouzamar@gmail.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-2D0A4E?style=for-the-badge\&logo=github\&logoColor=A855F7)](https://github.com/mahlunas)
 
 </div>
