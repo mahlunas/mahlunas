@@ -2,7 +2,7 @@
 
 ### About me
 Hi there! 👋
-My name is Marcelle Luna, and I’m a Software Developer at Exiti Soluções Digitais.
+My name is Marcelle Luna, and I’m a Full Stack Web Developer at Exiti Soluções Digitais.
 I’m currently pursuing a degree in Information Systems at UFMS (Federal University of Mato Grosso do Sul), where I’ve been expanding my knowledge of software development, databases, and system design.
 
 Outside of work, I enjoy reading, cooking, and playing games — hobbies that help me relax and spark creativity after a day of coding.
