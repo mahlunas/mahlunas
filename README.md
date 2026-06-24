@@ -106,11 +106,15 @@ Currently, I work with web development, APIs, databases and frontend interfaces,
 
 ## 🌱 Currently Learning
 
+<div align="center">
+
 ![Software Architecture](https://img.shields.io/badge/Software_Architecture-2D0A4E?style=for-the-badge\&logo=starship\&logoColor=A855F7)
 ![Advanced TypeScript](https://img.shields.io/badge/Advanced_TypeScript-2D0A4E?style=for-the-badge\&logo=typescript\&logoColor=A855F7)
 ![Microservices](https://img.shields.io/badge/Microservices-2D0A4E?style=for-the-badge\&logo=apachekafka\&logoColor=A855F7)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-2D0A4E?style=for-the-badge\&logo=icloud\&logoColor=A855F7)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-2D0A4E?style=for-the-badge\&logo=databricks\&logoColor=A855F7)
+
+</div>
 
 ---
 
