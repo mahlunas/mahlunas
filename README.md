@@ -24,15 +24,3 @@ I’m passionate about learning new technologies, improving my code every day, a
 
 ### GitHub Stats 👾
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahlunas&theme=midnight-purple&bg_color=000&border_color=4B0082&show_icons=true&icon_color=4B0082&text_color=FFF&hide_title=true&hide=stars)
-
-<!--START_SECTION:waka-->
-
-```txt
-HTML              3 hrs 29 mins         ███████▓░░░░░░░░░░░░░░░░░   31.20 %
-Java              3 hrs 25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.66 %
-TypeScript        1 hr 16 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-YAML              57 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-SQL               27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-```
-
-<!--END_SECTION:waka-->
